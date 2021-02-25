@@ -1,5 +1,6 @@
 ### Hola :)👋
-Actualmente estudiante del Instituto Tecnológico de Tijuana en la carrera de Ingeniería en Sistemas Computacionales.
+![Bienvenidos](http://www.decoracioneselpayasito.com/images/virtuemart/product/Negro.png)
+* Actualmente estudiante del Instituto Tecnológico de Tijuana en la carrera de Ingeniería en Sistemas Computacionales.
 Aspirante a generar nuevas ideas y adquirir nuevos conocimientos. :+1: :sparkles:
 ![Astronomy Fan](https://i.pinimg.com/originals/21/44/d0/2144d02e5d01b2260fe05c91e9d8ee43.jpg)
 
