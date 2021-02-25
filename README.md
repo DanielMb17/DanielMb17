@@ -1,4 +1,4 @@
-### Hola :)👋
+### Hola Colegas :)👋
 ![Bienvenidos](http://www.decoracioneselpayasito.com/images/virtuemart/product/Negro.png)
 * Actualmente estudiante del Instituto Tecnológico de Tijuana en la carrera de Ingeniería en Sistemas Computacionales.
 Aspirante a generar nuevas ideas y adquirir nuevos conocimientos. :+1: :sparkles:
