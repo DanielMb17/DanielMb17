@@ -2,6 +2,7 @@
 Actualmente estudiante del Instituto Tecnológico de Tijuana en la carrera de Ingeniería en Sistemas Computacionales
 Aspirante a generar nuevas ideas y adquirir nuevos conocimientos.
 [Fan de la Astronomia][https://i.pinimg.com/originals/21/44/d0/2144d02e5d01b2260fe05c91e9d8ee43.jpg]
+![GitHub Logo](/images/logo.png)
 
 <!--
 **DanielMb17/DanielMb17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
