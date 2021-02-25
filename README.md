@@ -1,9 +1,10 @@
-### Hi there 👋
+### Hola :)👋
 
 <!--
 **DanielMb17/DanielMb17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Actualmente estudiante del Instituto Tecnológico de Tijuana en la carrera de Ingeniería en Sistemas Computacionales
+Aspirante a generar nuevas ideas y adquirir nuevos conocimientos.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
